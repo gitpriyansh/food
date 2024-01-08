@@ -1,3 +1,2 @@
-sudo pip3 install pandas
-sudo pip3 install Flask
-sudo pip3 install scikit-learn
+pip3 install --upgrade pandas
+pip3 install Flask
